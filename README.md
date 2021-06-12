@@ -20,6 +20,8 @@ The towns from which these routes originate are:
 * Rongo  
 * Sirare  
 * Sori  
+
+
 The routes from these 14 origins to the first stop in the outskirts of Nairobi takes approximately 8 to 9 hours from time of departure. From the first stop in the outskirts of Nairobi into the main bus terminal, where most passengers get off, in Central Business District, takes another 2 to 3 hours depending on traffic.
 The three stops that all these routes make in Nairobi (in order) are:  
 Kawangware: the first stop in the outskirts of Nairobi  
